@@ -1,0 +1,4 @@
+---
+tags:
+  - template
+year: {{date}}
