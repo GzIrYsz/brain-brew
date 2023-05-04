@@ -76,4 +76,4 @@ Le but de cette fonction est de comparer la valeur fournie par la fonction d'agr
 - la fonction ReLU
 - la fonction Softmax
 
-La fonction signe
+La fonction signe test
